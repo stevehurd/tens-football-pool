@@ -4,5 +4,11 @@
     "src/app/api/**/*.ts": {
       "maxDuration": 30
     }
-  }
+  },
+  "crons": [
+    {
+      "path": "/api/admin/sync-teams",
+      "schedule": "0 6 * * *"
+    }
+  ]
 }
