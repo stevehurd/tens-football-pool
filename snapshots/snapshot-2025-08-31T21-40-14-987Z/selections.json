@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "cmf07jqbp00ir7nzhi4u96uqw",
+    "participantId": "cmezwkg3x002w7ndxmhac70h8",
+    "teamId": "cmf04zreq00067n68io0rin7i",
+    "selectionType": "NFL",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:33:43.045Z",
+    "participant": {
+      "name": "Al"
+    },
+    "team": {
+      "name": "Cincinnati Bengals",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf07ju0h00it7nzhaclpf3lt",
+    "participantId": "cmezwkg3x002w7ndxmhac70h8",
+    "teamId": "cmf04zrem00027n681an1muzn",
+    "selectionType": "NFL",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:33:47.826Z",
+    "participant": {
+      "name": "Al"
+    },
+    "team": {
+      "name": "Baltimore Ravens",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf07jy0m00iv7nzh4d34i2dc",
+    "participantId": "cmezwkg3x002w7ndxmhac70h8",
+    "teamId": "cmf05p0tz001h7n7bszs8ue4w",
+    "selectionType": "COLLEGE",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:33:53.014Z",
+    "participant": {
+      "name": "Al"
+    },
+    "team": {
+      "name": "BYU Cougars",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf07k2n300ix7nzhd7brtnwx",
+    "participantId": "cmezwkg3x002w7ndxmhac70h8",
+    "teamId": "cmf05p0u2001m7n7bi2ja0dls",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:33:59.008Z",
+    "participant": {
+      "name": "Al"
+    },
+    "team": {
+      "name": "Kansas State Wildcats",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf07k6uo00iz7nzhhw69cl5l",
+    "participantId": "cmezwkg3x002w7ndxmhac70h8",
+    "teamId": "cmf05p0tb000j7n7bq3s08rs5",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:34:04.465Z",
+    "participant": {
+      "name": "Al"
+    },
+    "team": {
+      "name": "Maryland Terrapins",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf07kamw00j17nzhlsl33ean",
+    "participantId": "cmezwkg3x002w7ndxmhac70h8",
+    "teamId": "cmf05p0tv001b7n7bmretmb2v",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:34:09.369Z",
+    "participant": {
+      "name": "Al"
+    },
+    "team": {
+      "name": "Wake Forest Demon Deacons",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf07kgt100j37nzhhobroicl",
+    "participantId": "cmezwkg3x002w7ndxmhac70h8",
+    "teamId": "cmf05p0uu002v7n7bpjkpc0mj",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:34:17.366Z",
+    "participant": {
+      "name": "Al"
+    },
+    "team": {
+      "name": "Marshall Thundering Herd",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf07kmnn00j57nzhdu3vzr0a",
+    "participantId": "cmezwkg3x002w7ndxmhac70h8",
+    "teamId": "cmf05p0t8000g7n7bkfwfzmj2",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:34:24.947Z",
+    "participant": {
+      "name": "Al"
+    },
+    "team": {
+      "name": "Illinois Fighting Illini",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf07krqw00j77nzh53k5xkoe",
+    "participantId": "cmezwkg3x002w7ndxmhac70h8",
+    "teamId": "cmf05p0vk003d7n7b7wa8zief",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:34:31.544Z",
+    "participant": {
+      "name": "Al"
+    },
+    "team": {
+      "name": "Western Michigan Broncos",
+      "league": "COLLEGE",
+      "conference": "MAC"
+    }
+  },
+  {
+    "id": "cmf07l3yi00j97nzh2lkx1s7r",
+    "participantId": "cmezwkg3x002w7ndxmhac70h8",
+    "teamId": "cmf05p0vn003i7n7b4d7jnzr7",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:34:47.370Z",
+    "participant": {
+      "name": "Al"
+    },
+    "team": {
+      "name": "Middle Tennessee Blue Raiders",
+      "league": "COLLEGE",
+      "conference": "Conference USA"
+    }
+  },
+  {
+    "id": "cmf06fjxw00dl7nzhn0njxdrh",
+    "participantId": "cmezwkg4100367ndxuynaiwe0",
+    "teamId": "cmf04zrfa000q7n68u8h03y5m",
+    "selectionType": "NFL",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:02:28.532Z",
+    "participant": {
+      "name": "Bocklet"
+    },
+    "team": {
+      "name": "Pittsburgh Steelers",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf06foi500dn7nzh6jmi3iuy",
+    "participantId": "cmezwkg4100367ndxuynaiwe0",
+    "teamId": "cmf05p0us002s7n7bv2if9hq0",
+    "selectionType": "COLLEGE",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:02:34.446Z",
+    "participant": {
+      "name": "Bocklet"
+    },
+    "team": {
+      "name": "James Madison Dukes",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf06ftis00dp7nzhc9i6379c",
+    "participantId": "cmezwkg4100367ndxuynaiwe0",
+    "teamId": "cmf05p0vg00397n7bepc0itim",
+    "selectionType": "COLLEGE",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:02:40.948Z",
+    "participant": {
+      "name": "Bocklet"
+    },
+    "team": {
+      "name": "Miami (OH) RedHawks",
+      "league": "COLLEGE",
+      "conference": "MAC"
+    }
+  },
+  {
+    "id": "cmf06fygj00dr7nzhic7m0kyh",
+    "participantId": "cmezwkg4100367ndxuynaiwe0",
+    "teamId": "cmf05p0vm003h7n7b8sfau8be",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:02:47.348Z",
+    "participant": {
+      "name": "Bocklet"
+    },
+    "team": {
+      "name": "Liberty Flames",
+      "league": "COLLEGE",
+      "conference": "Conference USA"
+    }
+  },
+  {
+    "id": "cmf06g3dx00dt7nzhiqt7kha6",
+    "participantId": "cmezwkg4100367ndxuynaiwe0",
+    "teamId": "cmf05p0un002k7n7bsxvr4xho",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:02:53.733Z",
+    "participant": {
+      "name": "Bocklet"
+    },
+    "team": {
+      "name": "UNLV Rebels",
+      "league": "COLLEGE",
+      "conference": "Mountain West"
+    }
+  },
+  {
+    "id": "cmf06g7ip00dv7nzhkifc95i7",
+    "participantId": "cmezwkg4100367ndxuynaiwe0",
+    "teamId": "cmf05p0tq00147n7b7cnru241",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:02:59.090Z",
+    "participant": {
+      "name": "Bocklet"
+    },
+    "team": {
+      "name": "Miami Hurricanes",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf06gcp100dx7nzhan2aa2k5",
+    "participantId": "cmezwkg4100367ndxuynaiwe0",
+    "teamId": "cmf04zrfd000v7n689ek9yu1j",
+    "selectionType": "NFL",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:03:05.797Z",
+    "participant": {
+      "name": "Bocklet"
+    },
+    "team": {
+      "name": "Washington Commanders",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf06gik500dz7nzhkgjw3jp4",
+    "participantId": "cmezwkg4100367ndxuynaiwe0",
+    "teamId": "cmf05p0ts00177n7bhvllh646",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:03:13.397Z",
+    "participant": {
+      "name": "Bocklet"
+    },
+    "team": {
+      "name": "Pittsburgh Panthers",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf06gsy600e17nzh10ai5fjo",
+    "participantId": "cmezwkg4100367ndxuynaiwe0",
+    "teamId": "cmf05p0v9002z7n7bwmwkjnn9",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:03:26.863Z",
+    "participant": {
+      "name": "Bocklet"
+    },
+    "team": {
+      "name": "Southern Miss Golden Eagles",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf073qw300e37nzhp71xu4hn",
+    "participantId": "cmezwkg4100367ndxuynaiwe0",
+    "teamId": "cmf06upvr00007n42v36eo25p",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:21:17.284Z",
+    "participant": {
+      "name": "Bocklet"
+    },
+    "team": {
+      "name": "Missouri State Bears",
+      "league": "COLLEGE",
+      "conference": "Conference USA"
+    }
+  },
+  {
+    "id": "cmf07n2pj00jv7nzhopsopaol",
+    "participantId": "cmezwkg3w002u7ndxgjlsarh3",
+    "teamId": "cmf05p0sm00007n7bsice33do",
+    "selectionType": "COLLEGE",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:36:19.064Z",
+    "participant": {
+      "name": "Brian"
+    },
+    "team": {
+      "name": "Alabama Crimson Tide",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf07nbph00jx7nzhpcaa4z42",
+    "participantId": "cmezwkg3w002u7ndxgjlsarh3",
+    "teamId": "cmf05p0t7000f7n7bzeaznshd",
+    "selectionType": "COLLEGE",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:36:30.725Z",
+    "participant": {
+      "name": "Brian"
+    },
+    "team": {
+      "name": "Oklahoma Sooners",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf07nhfi00jz7nzhbkoxjkgr",
+    "participantId": "cmezwkg3w002u7ndxgjlsarh3",
+    "teamId": "cmf04zrev000b7n68y1t8ch2k",
+    "selectionType": "NFL",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:36:38.142Z",
+    "participant": {
+      "name": "Brian"
+    },
+    "team": {
+      "name": "Green Bay Packers",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf07nmv500k17nzh2qomio2e",
+    "participantId": "cmezwkg3w002u7ndxgjlsarh3",
+    "teamId": "cmf04zrex000e7n68en9atu30",
+    "selectionType": "NFL",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:36:45.185Z",
+    "participant": {
+      "name": "Brian"
+    },
+    "team": {
+      "name": "Jacksonville Jaguars",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf07nrs900k37nzh18wy4qow",
+    "participantId": "cmezwkg3w002u7ndxgjlsarh3",
+    "teamId": "cmf05p0sy00077n7bq87tuunk",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:36:51.561Z",
+    "participant": {
+      "name": "Brian"
+    },
+    "team": {
+      "name": "Ole Miss Rebels",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf07nw4r00k57nzh49bb2csn",
+    "participantId": "cmezwkg3w002u7ndxgjlsarh3",
+    "teamId": "cmf05p0u2001n7n7b62hp22np",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:36:57.195Z",
+    "participant": {
+      "name": "Brian"
+    },
+    "team": {
+      "name": "Oklahoma State Cowboys",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf07o1ft00k77nzhxk0twlzg",
+    "participantId": "cmezwkg3w002u7ndxgjlsarh3",
+    "teamId": "cmf05p0tc000l7n7b4hahbtgc",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:37:04.073Z",
+    "participant": {
+      "name": "Brian"
+    },
+    "team": {
+      "name": "Michigan State Spartans",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf07o5sz00k97nzhgerocv39",
+    "participantId": "cmezwkg3w002u7ndxgjlsarh3",
+    "teamId": "cmf05p0up002n7n7bkyiu2t4t",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:37:09.731Z",
+    "participant": {
+      "name": "Brian"
+    },
+    "team": {
+      "name": "Appalachian State Mountaineers",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf07oayz00kb7nzhlvrqovbb",
+    "participantId": "cmezwkg3w002u7ndxgjlsarh3",
+    "teamId": "cmf05p0vd00337n7b53fh7okv",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:37:16.427Z",
+    "participant": {
+      "name": "Brian"
+    },
+    "team": {
+      "name": "Ball State Cardinals",
+      "league": "COLLEGE",
+      "conference": "MAC"
+    }
+  },
+  {
+    "id": "cmf07og1v00kd7nzhj2zml84k",
+    "participantId": "cmezwkg3w002u7ndxgjlsarh3",
+    "teamId": "cmf05p0tf000o7n7b6usuh4rw",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:37:23.011Z",
+    "participant": {
+      "name": "Brian"
+    },
+    "team": {
+      "name": "Northwestern Wildcats",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf06c6ra00ch7nzhn6fga735",
+    "participantId": "cmezwkg3w002t7ndxyd6j9e6b",
+    "teamId": "cmf05p0tc000k7n7bfqidfbeg",
+    "selectionType": "COLLEGE",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T20:59:51.479Z",
+    "participant": {
+      "name": "Daryl"
+    },
+    "team": {
+      "name": "Michigan Wolverines",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf06cb4t00cj7nzhs3nj8dwj",
+    "participantId": "cmezwkg3w002t7ndxyd6j9e6b",
+    "teamId": "cmf04zrev000a7n684fjrj160",
+    "selectionType": "NFL",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T20:59:57.150Z",
+    "participant": {
+      "name": "Daryl"
+    },
+    "team": {
+      "name": "Detroit Lions",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf06ceu100cl7nzh987q6yhs",
+    "participantId": "cmezwkg3w002t7ndxyd6j9e6b",
+    "teamId": "cmf05p0sr00027n7bfpd0jx7u",
+    "selectionType": "COLLEGE",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:00:01.946Z",
+    "participant": {
+      "name": "Daryl"
+    },
+    "team": {
+      "name": "Auburn Tigers",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf06ciz300cn7nzhtqbiyehi",
+    "participantId": "cmezwkg3w002t7ndxyd6j9e6b",
+    "teamId": "cmf04zrfb000s7n683esrszb5",
+    "selectionType": "NFL",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:00:07.311Z",
+    "participant": {
+      "name": "Daryl"
+    },
+    "team": {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf06cpbm00cp7nzhsq0cwhqi",
+    "participantId": "cmezwkg3w002t7ndxyd6j9e6b",
+    "teamId": "cmf05p0tv001a7n7bh6qpimgf",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:00:15.539Z",
+    "participant": {
+      "name": "Daryl"
+    },
+    "team": {
+      "name": "Virginia Tech Hokies",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf06cx2100cr7nzh7o7h6xv1",
+    "participantId": "cmezwkg3w002t7ndxyd6j9e6b",
+    "teamId": "cmf05p0u0001j7n7bkf0z4oq8",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:00:25.562Z",
+    "participant": {
+      "name": "Daryl"
+    },
+    "team": {
+      "name": "Houston Cougars",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf06d61x00ct7nzht2ykwst8",
+    "participantId": "cmezwkg3w002t7ndxyd6j9e6b",
+    "teamId": "cmf05p0ss00037n7bqpaadocj",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:00:37.222Z",
+    "participant": {
+      "name": "Daryl"
+    },
+    "team": {
+      "name": "Florida Gators",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf06da6h00cv7nzhqo4vab3u",
+    "participantId": "cmezwkg3w002t7ndxyd6j9e6b",
+    "teamId": "cmf05p0ty001g7n7bmn7alnq5",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:00:42.569Z",
+    "participant": {
+      "name": "Daryl"
+    },
+    "team": {
+      "name": "Baylor Bears",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf06dewx00cx7nzh6ft8grz3",
+    "participantId": "cmezwkg3w002t7ndxyd6j9e6b",
+    "teamId": "cmf05p0sp00017n7b23rffblt",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:00:48.705Z",
+    "participant": {
+      "name": "Daryl"
+    },
+    "team": {
+      "name": "Arkansas Razorbacks",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf06dkgq00cz7nzhuj34p49n",
+    "participantId": "cmezwkg3w002t7ndxyd6j9e6b",
+    "teamId": "cmf05p0uv002w7n7b34tow5fd",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:00:55.899Z",
+    "participant": {
+      "name": "Daryl"
+    },
+    "team": {
+      "name": "Old Dominion Monarchs",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf07953j00ft7nzhdyv4k58u",
+    "participantId": "cmezwkg3z00317ndx723p6ias",
+    "teamId": "cmf04zrf9000p7n68gi3v2pio",
+    "selectionType": "NFL",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:25:28.975Z",
+    "participant": {
+      "name": "Goody"
+    },
+    "team": {
+      "name": "Philadelphia Eagles",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf079yjj00fv7nzh3oonfl2n",
+    "participantId": "cmezwkg3z00317ndx723p6ias",
+    "teamId": "cmf05p0tn000z7n7bgsekjpjw",
+    "selectionType": "COLLEGE",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:26:07.135Z",
+    "participant": {
+      "name": "Goody"
+    },
+    "team": {
+      "name": "Clemson Tigers",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf07a40100fx7nzhhb0afabh",
+    "participantId": "cmezwkg3z00317ndx723p6ias",
+    "teamId": "cmf05p0t3000b7n7bxrvyqmo6",
+    "selectionType": "COLLEGE",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:26:14.209Z",
+    "participant": {
+      "name": "Goody"
+    },
+    "team": {
+      "name": "Tennessee Volunteers",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf07a8v600fz7nzhba4ph17i",
+    "participantId": "cmezwkg3z00317ndx723p6ias",
+    "teamId": "cmf05p0t5000d7n7bhtlbeba9",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:26:20.514Z",
+    "participant": {
+      "name": "Goody"
+    },
+    "team": {
+      "name": "Vanderbilt Commodores",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf07acgd00g17nzhh6jn0h95",
+    "participantId": "cmezwkg3z00317ndx723p6ias",
+    "teamId": "cmf05p0ta000i7n7brqicp88k",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:26:25.165Z",
+    "participant": {
+      "name": "Goody"
+    },
+    "team": {
+      "name": "Iowa Hawkeyes",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf07akpg00g37nzhtt9bnrwu",
+    "participantId": "cmezwkg3z00317ndx723p6ias",
+    "teamId": "cmf05p0vl003f7n7bxglxg6mo",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:26:35.860Z",
+    "participant": {
+      "name": "Goody"
+    },
+    "team": {
+      "name": "Jacksonville State Gamecocks",
+      "league": "COLLEGE",
+      "conference": "Conference USA"
+    }
+  },
+  {
+    "id": "cmf07atf100g57nzhgn53u7dv",
+    "participantId": "cmezwkg3z00317ndx723p6ias",
+    "teamId": "cmf05p0u9001x7n7b9vq834sx",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:26:47.149Z",
+    "participant": {
+      "name": "Goody"
+    },
+    "team": {
+      "name": "Washington State Cougars",
+      "league": "COLLEGE",
+      "conference": "Pac-12"
+    }
+  },
+  {
+    "id": "cmf07b0ps00g77nzhbowr5ad5",
+    "participantId": "cmezwkg3z00317ndx723p6ias",
+    "teamId": "cmf04zrf7000n7n68699v9uoa",
+    "selectionType": "NFL",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:26:56.608Z",
+    "participant": {
+      "name": "Goody"
+    },
+    "team": {
+      "name": "New York Giants",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf07b7c000g97nzhfcu872xy",
+    "participantId": "cmezwkg3z00317ndx723p6ias",
+    "teamId": "cmf05p0t2000a7n7btt5lkd3n",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:27:05.185Z",
+    "participant": {
+      "name": "Goody"
+    },
+    "team": {
+      "name": "South Carolina Gamecocks",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf07bc3l00gb7nzhk55fptp9",
+    "participantId": "cmezwkg3z00317ndx723p6ias",
+    "teamId": "cmf05p0vr003p7n7bvt9o8pyc",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:27:11.361Z",
+    "participant": {
+      "name": "Goody"
+    },
+    "team": {
+      "name": "UConn Huskies",
+      "league": "COLLEGE",
+      "conference": "Independent"
+    }
+  },
+  {
+    "id": "cmf07i2j300i77nzhbb3zqtwh",
+    "participantId": "cmezwkg3x002x7ndxav7rczcu",
+    "teamId": "cmf04zrey000f7n688i9hmzft",
+    "selectionType": "NFL",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:32:25.551Z",
+    "participant": {
+      "name": "KOB"
+    },
+    "team": {
+      "name": "Kansas City Chiefs",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf07i6kg00i97nzhrj1oajid",
+    "participantId": "cmezwkg3x002x7ndxav7rczcu",
+    "teamId": "cmf05p0tj000u7n7by84z9kga",
+    "selectionType": "COLLEGE",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:32:30.784Z",
+    "participant": {
+      "name": "KOB"
+    },
+    "team": {
+      "name": "Oregon Ducks",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf07iciq00ib7nzht88hnw92",
+    "participantId": "cmezwkg3x002x7ndxav7rczcu",
+    "teamId": "cmf05p0uf00267n7bbcrdinoz",
+    "selectionType": "COLLEGE",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:32:38.498Z",
+    "participant": {
+      "name": "KOB"
+    },
+    "team": {
+      "name": "UTSA Roadrunners",
+      "league": "COLLEGE",
+      "conference": "American"
+    }
+  },
+  {
+    "id": "cmf07igei00id7nzhtx6jinv3",
+    "participantId": "cmezwkg3x002x7ndxav7rczcu",
+    "teamId": "cmf05p0u1001l7n7bpeoen3ho",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:32:43.531Z",
+    "participant": {
+      "name": "KOB"
+    },
+    "team": {
+      "name": "Kansas Jayhawks",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf07ijz800if7nzhfcxd6dbe",
+    "participantId": "cmezwkg3x002x7ndxav7rczcu",
+    "teamId": "cmf05p0vp003m7n7bggrm5l8v",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:32:48.164Z",
+    "participant": {
+      "name": "KOB"
+    },
+    "team": {
+      "name": "Western Kentucky Hilltoppers",
+      "league": "COLLEGE",
+      "conference": "Conference USA"
+    }
+  },
+  {
+    "id": "cmf07ipa200ih7nzh6o8f8drw",
+    "participantId": "cmezwkg3x002x7ndxav7rczcu",
+    "teamId": "cmf04zrez000g7n684npiyydw",
+    "selectionType": "NFL",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:32:55.035Z",
+    "participant": {
+      "name": "KOB"
+    },
+    "team": {
+      "name": "Las Vegas Raiders",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf07izpb00ij7nzhvrctm0up",
+    "participantId": "cmezwkg3x002x7ndxav7rczcu",
+    "teamId": "cmf05p0tp00127n7bcil7j4nt",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:33:08.544Z",
+    "participant": {
+      "name": "KOB"
+    },
+    "team": {
+      "name": "Georgia Tech Yellow Jackets",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf07j79u00il7nzhx33f60qb",
+    "participantId": "cmezwkg3x002x7ndxav7rczcu",
+    "teamId": "cmf05p0uq002p7n7bg92d6uxz",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:33:18.354Z",
+    "participant": {
+      "name": "KOB"
+    },
+    "team": {
+      "name": "Coastal Carolina Chanticleers",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf07jbit00in7nzhye8rga22",
+    "participantId": "cmezwkg3x002x7ndxav7rczcu",
+    "teamId": "cmf05p0un002j7n7bhb2l58wa",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:33:23.861Z",
+    "participant": {
+      "name": "KOB"
+    },
+    "team": {
+      "name": "San Jose State Spartans",
+      "league": "COLLEGE",
+      "conference": "Mountain West"
+    }
+  },
+  {
+    "id": "cmf07jfsn00ip7nzh1ug3bg25",
+    "participantId": "cmezwkg3x002x7ndxav7rczcu",
+    "teamId": "cmf05p0ve00367n7b1yzcim4l",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:33:29.400Z",
+    "participant": {
+      "name": "KOB"
+    },
+    "team": {
+      "name": "Central Michigan Chippewas",
+      "league": "COLLEGE",
+      "conference": "MAC"
+    }
+  },
+  {
+    "id": "cmf07d5by00gx7nzh8zn2c4ww",
+    "participantId": "cmezwkg3y002z7ndxzw1uuiv7",
+    "teamId": "cmf04zrf0000h7n68hb46j51i",
+    "selectionType": "NFL",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:28:35.903Z",
+    "participant": {
+      "name": "Kenny"
+    },
+    "team": {
+      "name": "Los Angeles Chargers",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf07dagw00gz7nzh1lndmmri",
+    "participantId": "cmezwkg3y002z7ndxzw1uuiv7",
+    "teamId": "cmf05p0t6000e7n7bcr0cewjn",
+    "selectionType": "COLLEGE",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:28:42.560Z",
+    "participant": {
+      "name": "Kenny"
+    },
+    "team": {
+      "name": "Texas Longhorns",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf07ddza00h17nzhn4s0sgcc",
+    "participantId": "cmezwkg3y002z7ndxzw1uuiv7",
+    "teamId": "cmf04zrf2000j7n682ssha420",
+    "selectionType": "NFL",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:28:47.110Z",
+    "participant": {
+      "name": "Kenny"
+    },
+    "team": {
+      "name": "Miami Dolphins",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf07do5q00h37nzhpimzkiv9",
+    "participantId": "cmezwkg3y002z7ndxzw1uuiv7",
+    "teamId": "cmf05p0ui002c7n7b9zdrekyf",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:29:00.302Z",
+    "participant": {
+      "name": "Kenny"
+    },
+    "team": {
+      "name": "Boise State Broncos",
+      "league": "COLLEGE",
+      "conference": "Mountain West"
+    }
+  },
+  {
+    "id": "cmf07ds4800h57nzhmckcw5h0",
+    "participantId": "cmezwkg3y002z7ndxzw1uuiv7",
+    "teamId": "cmf05p0t4000c7n7brbzvrkev",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:29:05.432Z",
+    "participant": {
+      "name": "Kenny"
+    },
+    "team": {
+      "name": "Texas A&M Aggies",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf07dwf300h77nzh54oybfd7",
+    "participantId": "cmezwkg3y002z7ndxzw1uuiv7",
+    "teamId": "cmf05p0te000n7n7b62036rxu",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:29:11.008Z",
+    "participant": {
+      "name": "Kenny"
+    },
+    "team": {
+      "name": "Nebraska Cornhuskers",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf07e6x200h97nzhsmygrmou",
+    "participantId": "cmezwkg3y002z7ndxzw1uuiv7",
+    "teamId": "cmf05p0vp003l7n7bx95ff8dx",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:29:24.615Z",
+    "participant": {
+      "name": "Kenny"
+    },
+    "team": {
+      "name": "UTEP Miners",
+      "league": "COLLEGE",
+      "conference": "Conference USA"
+    }
+  },
+  {
+    "id": "cmf07eec900hb7nzhuu5mirpj",
+    "participantId": "cmezwkg3y002z7ndxzw1uuiv7",
+    "teamId": "cmf05p0tx001e7n7bhsyt9s5i",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:29:34.233Z",
+    "participant": {
+      "name": "Kenny"
+    },
+    "team": {
+      "name": "California Golden Bears",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf07eix100hd7nzhu9r9mmy5",
+    "participantId": "cmezwkg3y002z7ndxzw1uuiv7",
+    "teamId": "cmf05p0tz001i7n7bfl2659s6",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:29:40.166Z",
+    "participant": {
+      "name": "Kenny"
+    },
+    "team": {
+      "name": "Cincinnati Bearcats",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf07eo4t00hf7nzhsszwynpk",
+    "participantId": "cmezwkg3y002z7ndxzw1uuiv7",
+    "teamId": "cmf05p0ur002q7n7b5tipg2sq",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:29:46.925Z",
+    "participant": {
+      "name": "Kenny"
+    },
+    "team": {
+      "name": "Georgia Southern Eagles",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf06dwdn00d17nzhhm28wufl",
+    "participantId": "cmezwkg4100357ndxt5rk4phb",
+    "teamId": "cmf05p0tg000p7n7byc47l3pu",
+    "selectionType": "COLLEGE",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:01:11.340Z",
+    "participant": {
+      "name": "Knowles"
+    },
+    "team": {
+      "name": "Ohio State Buckeyes",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf06e0p400d37nzhrvutjqcc",
+    "participantId": "cmezwkg4100357ndxt5rk4phb",
+    "teamId": "cmf05p0sw00067n7bi7a1yopv",
+    "selectionType": "COLLEGE",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:01:16.936Z",
+    "participant": {
+      "name": "Knowles"
+    },
+    "team": {
+      "name": "LSU Tigers",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf06e4sx00d57nzhok99km7r",
+    "participantId": "cmezwkg4100357ndxt5rk4phb",
+    "teamId": "cmf04zret00087n68wpnghmf4",
+    "selectionType": "NFL",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:01:22.257Z",
+    "participant": {
+      "name": "Knowles"
+    },
+    "team": {
+      "name": "Dallas Cowboys",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf06e8qk00d77nzhcto0f7i9",
+    "participantId": "cmezwkg4100357ndxt5rk4phb",
+    "teamId": "cmf05p0ti000s7n7bgcu5xqyd",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:01:27.357Z",
+    "participant": {
+      "name": "Knowles"
+    },
+    "team": {
+      "name": "Rutgers Scarlet Knights",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf06edhq00d97nzhehadkf8o",
+    "participantId": "cmezwkg4100357ndxt5rk4phb",
+    "teamId": "cmf05p0ua001z7n7b1imy1can",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:01:33.518Z",
+    "participant": {
+      "name": "Knowles"
+    },
+    "team": {
+      "name": "Memphis Tigers",
+      "league": "COLLEGE",
+      "conference": "American"
+    }
+  },
+  {
+    "id": "cmf06eqk400db7nzhc8httmii",
+    "participantId": "cmezwkg4100357ndxt5rk4phb",
+    "teamId": "cmf05p0us002t7n7bmuys6o5e",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:01:50.453Z",
+    "participant": {
+      "name": "Knowles"
+    },
+    "team": {
+      "name": "Louisiana Ragin' Cajuns",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf06ex4c00dd7nzhhq9a4vf4",
+    "participantId": "cmezwkg4100357ndxt5rk4phb",
+    "teamId": "cmf05p0u4001q7n7btkwwu321",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:01:58.956Z",
+    "participant": {
+      "name": "Knowles"
+    },
+    "team": {
+      "name": "UCF Knights",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf06f10e00df7nzhxpjsy27s",
+    "participantId": "cmezwkg4100357ndxt5rk4phb",
+    "teamId": "cmf05p0tt00187n7b0te5ipn8",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:02:03.998Z",
+    "participant": {
+      "name": "Knowles"
+    },
+    "team": {
+      "name": "Syracuse Orange",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf06f4n200dh7nzhjjeahacm",
+    "participantId": "cmezwkg4100357ndxt5rk4phb",
+    "teamId": "cmf04zreo00047n686v6iavr6",
+    "selectionType": "NFL",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:02:08.702Z",
+    "participant": {
+      "name": "Knowles"
+    },
+    "team": {
+      "name": "Carolina Panthers",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf06f9oe00dj7nzhfn3msj42",
+    "participantId": "cmezwkg4100357ndxt5rk4phb",
+    "teamId": "cmf05p0vo003k7n7bt9h5jwv0",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:02:15.230Z",
+    "participant": {
+      "name": "Knowles"
+    },
+    "team": {
+      "name": "Sam Houston Bearkats",
+      "league": "COLLEGE",
+      "conference": "Conference USA"
+    }
+  },
+  {
+    "id": "cmf077e1m00f97nzhyp8ub2s1",
+    "participantId": "cmezwkg4000327ndx65ij30ue",
+    "teamId": "cmf04zrew000c7n68ggdk7imz",
+    "selectionType": "NFL",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:24:07.258Z",
+    "participant": {
+      "name": "Mario"
+    },
+    "team": {
+      "name": "Houston Texans",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf077ie700fb7nzhmfp39918",
+    "participantId": "cmezwkg4000327ndx65ij30ue",
+    "teamId": "cmf04zrep00057n68ntbkveor",
+    "selectionType": "NFL",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:24:12.895Z",
+    "participant": {
+      "name": "Mario"
+    },
+    "team": {
+      "name": "Chicago Bears",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf077na400fd7nzhq1ry4xti",
+    "participantId": "cmezwkg4000327ndx65ij30ue",
+    "teamId": "cmf05p0tn00107n7bk5mxqa32",
+    "selectionType": "COLLEGE",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:24:19.228Z",
+    "participant": {
+      "name": "Mario"
+    },
+    "team": {
+      "name": "Duke Blue Devils",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf077ubo00ff7nzh92j0eruw",
+    "participantId": "cmezwkg4000327ndx65ij30ue",
+    "teamId": "cmf05p0u8001w7n7blc8xq3l3",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:24:28.357Z",
+    "participant": {
+      "name": "Mario"
+    },
+    "team": {
+      "name": "Oregon State Beavers",
+      "league": "COLLEGE",
+      "conference": "Pac-12"
+    }
+  },
+  {
+    "id": "cmf07819100fh7nzhczs0ts0f",
+    "participantId": "cmezwkg4000327ndx65ij30ue",
+    "teamId": "cmf05p0to00117n7bfggtaqgx",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:24:37.333Z",
+    "participant": {
+      "name": "Mario"
+    },
+    "team": {
+      "name": "Florida State Seminoles",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf0786b100fj7nzh43pycpdw",
+    "participantId": "cmezwkg4000327ndx65ij30ue",
+    "teamId": "cmf05p0vh003a7n7bvi0jhycz",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:24:43.885Z",
+    "participant": {
+      "name": "Mario"
+    },
+    "team": {
+      "name": "Northern Illinois Huskies",
+      "league": "COLLEGE",
+      "conference": "MAC"
+    }
+  },
+  {
+    "id": "cmf078d6l00fl7nzh17roc85i",
+    "participantId": "cmezwkg4000327ndx65ij30ue",
+    "teamId": "cmf05p0t000097n7bkucd830i",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:24:52.797Z",
+    "participant": {
+      "name": "Mario"
+    },
+    "team": {
+      "name": "Missouri Tigers",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf078hrd00fn7nzhbcpfyhhr",
+    "participantId": "cmezwkg4000327ndx65ij30ue",
+    "teamId": "cmf05p0vb00317n7b9dud2f9g",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:24:58.729Z",
+    "participant": {
+      "name": "Mario"
+    },
+    "team": {
+      "name": "Troy Trojans",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf078m1n00fp7nzhi9d68k3k",
+    "participantId": "cmezwkg4000327ndx65ij30ue",
+    "teamId": "cmf05p0vf00377n7bks2exv5z",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:25:04.283Z",
+    "participant": {
+      "name": "Mario"
+    },
+    "team": {
+      "name": "Eastern Michigan Eagles",
+      "league": "COLLEGE",
+      "conference": "MAC"
+    }
+  },
+  {
+    "id": "cmf078rlm00fr7nzhulu1uzmy",
+    "participantId": "cmezwkg4000327ndx65ij30ue",
+    "teamId": "cmf06psph00007nrqkkrsc0zk",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:25:11.483Z",
+    "participant": {
+      "name": "Mario"
+    },
+    "team": {
+      "name": "Delaware Blue Hens",
+      "league": "COLLEGE",
+      "conference": "Conference USA"
+    }
+  },
+  {
+    "id": "cmf07bmto00gd7nzhvjc0t3l2",
+    "participantId": "cmezwkg3z00307ndxz7k6hyf8",
+    "teamId": "cmf04zren00037n687m7fnifh",
+    "selectionType": "NFL",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:27:25.260Z",
+    "participant": {
+      "name": "Marty"
+    },
+    "team": {
+      "name": "Buffalo Bills",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf07brzm00gf7nzh1gk3ybyj",
+    "participantId": "cmezwkg3z00307ndxz7k6hyf8",
+    "teamId": "cmf04zrel00017n68zregp916",
+    "selectionType": "NFL",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:27:31.954Z",
+    "participant": {
+      "name": "Marty"
+    },
+    "team": {
+      "name": "Atlanta Falcons",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf07bx3z00gh7nzhgzk5h3rt",
+    "participantId": "cmezwkg3z00307ndxz7k6hyf8",
+    "teamId": "cmf05p0vi003c7n7bf44l5oqo",
+    "selectionType": "COLLEGE",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:27:38.592Z",
+    "participant": {
+      "name": "Marty"
+    },
+    "team": {
+      "name": "Toledo Rockets",
+      "league": "COLLEGE",
+      "conference": "MAC"
+    }
+  },
+  {
+    "id": "cmf07c0p100gj7nzh1bgoou1f",
+    "participantId": "cmezwkg3z00307ndxz7k6hyf8",
+    "teamId": "cmf05p0uj002e7n7b9tqk6cpx",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:27:43.237Z",
+    "participant": {
+      "name": "Marty"
+    },
+    "team": {
+      "name": "Fresno State Bulldogs",
+      "league": "COLLEGE",
+      "conference": "Mountain West"
+    }
+  },
+  {
+    "id": "cmf07c4yo00gl7nzh5x40nkqd",
+    "participantId": "cmezwkg3z00307ndxz7k6hyf8",
+    "teamId": "cmf05p0uj002d7n7bsmn73oc6",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:27:48.769Z",
+    "participant": {
+      "name": "Marty"
+    },
+    "team": {
+      "name": "Colorado State Rams",
+      "league": "COLLEGE",
+      "conference": "Mountain West"
+    }
+  },
+  {
+    "id": "cmf07c8vu00gn7nzh2vzgg7en",
+    "participantId": "cmezwkg3z00307ndxz7k6hyf8",
+    "teamId": "cmf05p0up002m7n7bk60yk6w6",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:27:53.850Z",
+    "participant": {
+      "name": "Marty"
+    },
+    "team": {
+      "name": "Wyoming Cowboys",
+      "league": "COLLEGE",
+      "conference": "Mountain West"
+    }
+  },
+  {
+    "id": "cmf07cehs00gp7nzha6ru66eu",
+    "participantId": "cmezwkg3z00307ndxz7k6hyf8",
+    "teamId": "cmf05p0td000m7n7b4gft39hm",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:28:01.121Z",
+    "participant": {
+      "name": "Marty"
+    },
+    "team": {
+      "name": "Minnesota Golden Gophers",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf07cknk00gr7nzhuo21o1v0",
+    "participantId": "cmezwkg3z00307ndxz7k6hyf8",
+    "teamId": "cmf05p0ui002b7n7b4appxkj7",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:28:09.104Z",
+    "participant": {
+      "name": "Marty"
+    },
+    "team": {
+      "name": "Air Force Falcons",
+      "league": "COLLEGE",
+      "conference": "Mountain West"
+    }
+  },
+  {
+    "id": "cmf07cp5y00gt7nzhp20oaz7l",
+    "participantId": "cmezwkg3z00307ndxz7k6hyf8",
+    "teamId": "cmf05p0ub00207n7bnoll0mrj",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:28:14.950Z",
+    "participant": {
+      "name": "Marty"
+    },
+    "team": {
+      "name": "Navy Midshipmen",
+      "league": "COLLEGE",
+      "conference": "American"
+    }
+  },
+  {
+    "id": "cmf07cuyr00gv7nzhn5mus5qp",
+    "participantId": "cmezwkg3z00307ndxz7k6hyf8",
+    "teamId": "cmf05p0vf00387n7bupcyjdhb",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:28:22.467Z",
+    "participant": {
+      "name": "Marty"
+    },
+    "team": {
+      "name": "Kent State Golden Flashes",
+      "league": "COLLEGE",
+      "conference": "MAC"
+    }
+  },
+  {
+    "id": "cmf075npl00ep7nzh61wjkvbj",
+    "participantId": "cmezwkg4000337ndxk5udb608",
+    "teamId": "cmf05p0st00047n7bkarake24",
+    "selectionType": "COLLEGE",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:22:46.473Z",
+    "participant": {
+      "name": "Petrucci"
+    },
+    "team": {
+      "name": "Georgia Bulldogs",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf075sg600er7nzhxudrf3zi",
+    "participantId": "cmezwkg4000337ndxk5udb608",
+    "teamId": "cmf04zrf4000l7n68tzu7gmg1",
+    "selectionType": "NFL",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:22:52.614Z",
+    "participant": {
+      "name": "Petrucci"
+    },
+    "team": {
+      "name": "New England Patriots",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf075wuu00et7nzhyuyjfrty",
+    "participantId": "cmezwkg4000337ndxk5udb608",
+    "teamId": "cmf05p0tl000x7n7bh02ioecv",
+    "selectionType": "COLLEGE",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:22:58.326Z",
+    "participant": {
+      "name": "Petrucci"
+    },
+    "team": {
+      "name": "Washington Huskies",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf0762er00ev7nzhpgdgg78u",
+    "participantId": "cmezwkg4000337ndxk5udb608",
+    "teamId": "cmf05p0ud00237n7byjnhc4wv",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:23:05.524Z",
+    "participant": {
+      "name": "Petrucci"
+    },
+    "team": {
+      "name": "Tulane Green Wave",
+      "league": "COLLEGE",
+      "conference": "American"
+    }
+  },
+  {
+    "id": "cmf076a8100ex7nzhst9tt2uv",
+    "participantId": "cmezwkg4000337ndxk5udb608",
+    "teamId": "cmf05p0u4001p7n7b0jkx5ngz",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:23:15.649Z",
+    "participant": {
+      "name": "Petrucci"
+    },
+    "team": {
+      "name": "Texas Tech Red Raiders",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf076e8v00ez7nzh2wjfm4i7",
+    "participantId": "cmezwkg4000337ndxk5udb608",
+    "teamId": "cmf04zreu00097n68cpvr7ljs",
+    "selectionType": "NFL",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:23:20.864Z",
+    "participant": {
+      "name": "Petrucci"
+    },
+    "team": {
+      "name": "Denver Broncos",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf076nng00f17nzhjjtfo6ow",
+    "participantId": "cmezwkg4000337ndxk5udb608",
+    "teamId": "cmf05p0vl003g7n7b8guxt935",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:23:33.053Z",
+    "participant": {
+      "name": "Petrucci"
+    },
+    "team": {
+      "name": "Louisiana Tech Bulldogs",
+      "league": "COLLEGE",
+      "conference": "Conference USA"
+    }
+  },
+  {
+    "id": "cmf076thj00f37nzhvi4adpiv",
+    "participantId": "cmezwkg4000337ndxk5udb608",
+    "teamId": "cmf05p0vq003o7n7blq6prhe6",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:23:40.616Z",
+    "participant": {
+      "name": "Petrucci"
+    },
+    "team": {
+      "name": "Army Black Knights",
+      "league": "COLLEGE",
+      "conference": "Independent"
+    }
+  },
+  {
+    "id": "cmf076y2h00f57nzhrnvyyvax",
+    "participantId": "cmezwkg4000337ndxk5udb608",
+    "teamId": "cmf05p0uq002o7n7bpetu0a4q",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:23:46.553Z",
+    "participant": {
+      "name": "Petrucci"
+    },
+    "team": {
+      "name": "Arkansas State Red Wolves",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf0773h100f77nzhkbankzr1",
+    "participantId": "cmezwkg4000337ndxk5udb608",
+    "teamId": "cmf05p0ve00357n7bokgbdb4m",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:23:53.557Z",
+    "participant": {
+      "name": "Petrucci"
+    },
+    "team": {
+      "name": "Buffalo Bulls",
+      "league": "COLLEGE",
+      "conference": "MAC"
+    }
+  },
+  {
+    "id": "cmf07lfha00jb7nzh7dz0lajy",
+    "participantId": "cmezwkg3x002v7ndxh5wixnid",
+    "teamId": "cmf04zrfc000t7n68oruqxho9",
+    "selectionType": "NFL",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:35:02.303Z",
+    "participant": {
+      "name": "Reilly"
+    },
+    "team": {
+      "name": "Tampa Bay Buccaneers",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf07lko700jd7nzh0ab57xy0",
+    "participantId": "cmezwkg3x002v7ndxh5wixnid",
+    "teamId": "cmf05p0tp00137n7be0pj66pr",
+    "selectionType": "COLLEGE",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:35:09.031Z",
+    "participant": {
+      "name": "Reilly"
+    },
+    "team": {
+      "name": "Louisville Cardinals",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf07loo500jf7nzhsvj17ydh",
+    "participantId": "cmezwkg3x002v7ndxh5wixnid",
+    "teamId": "cmf05p0tx001d7n7b0gqts6tm",
+    "selectionType": "COLLEGE",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:35:14.213Z",
+    "participant": {
+      "name": "Reilly"
+    },
+    "team": {
+      "name": "SMU Mustangs",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf07lsy000jh7nzh2u19ihko",
+    "participantId": "cmezwkg3x002v7ndxh5wixnid",
+    "teamId": "cmf05p0vk003e7n7br6jtqt9k",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:35:19.752Z",
+    "participant": {
+      "name": "Reilly"
+    },
+    "team": {
+      "name": "Florida International Panthers",
+      "league": "COLLEGE",
+      "conference": "Conference USA"
+    }
+  },
+  {
+    "id": "cmf07lxho00jj7nzhrbcsqy6w",
+    "participantId": "cmezwkg3x002v7ndxh5wixnid",
+    "teamId": "cmf04zreg00007n68xe43at0k",
+    "selectionType": "NFL",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:35:25.644Z",
+    "participant": {
+      "name": "Reilly"
+    },
+    "team": {
+      "name": "Arizona Cardinals",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf07m52p00jl7nzh4pzslait",
+    "participantId": "cmezwkg3x002v7ndxh5wixnid",
+    "teamId": "cmf05p0uc00217n7bhe0wi6jy",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:35:35.473Z",
+    "participant": {
+      "name": "Reilly"
+    },
+    "team": {
+      "name": "South Florida Bulls",
+      "league": "COLLEGE",
+      "conference": "American"
+    }
+  },
+  {
+    "id": "cmf07mav700jn7nzhaxstzr3w",
+    "participantId": "cmezwkg3x002v7ndxh5wixnid",
+    "teamId": "cmf05p0tu00197n7bi75xlqbg",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:35:42.980Z",
+    "participant": {
+      "name": "Reilly"
+    },
+    "team": {
+      "name": "Virginia Cavaliers",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf07merm00jp7nzh3mte3kao",
+    "participantId": "cmezwkg3x002v7ndxh5wixnid",
+    "teamId": "cmf05p0uw002x7n7bnosimio0",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:35:48.034Z",
+    "participant": {
+      "name": "Reilly"
+    },
+    "team": {
+      "name": "South Alabama Jaguars",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf07mmyh00jr7nzhmi1lxk7v",
+    "participantId": "cmezwkg3x002v7ndxh5wixnid",
+    "teamId": "cmf05p0ug00297n7bz5op20c4",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:35:58.650Z",
+    "participant": {
+      "name": "Reilly"
+    },
+    "team": {
+      "name": "North Texas Mean Green",
+      "league": "COLLEGE",
+      "conference": "American"
+    }
+  },
+  {
+    "id": "cmf07mrbf00jt7nzhxmoahmdj",
+    "participantId": "cmezwkg3x002v7ndxh5wixnid",
+    "teamId": "cmf05p0um002i7n7b1ixmd7pv",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:36:04.299Z",
+    "participant": {
+      "name": "Reilly"
+    },
+    "team": {
+      "name": "San Diego State Aztecs",
+      "league": "COLLEGE",
+      "conference": "Mountain West"
+    }
+  },
+  {
+    "id": "cmf07eyzt00hh7nzh0cr0mmll",
+    "participantId": "cmezwkg3y002y7ndx52bnh3m7",
+    "teamId": "cmf04zrf8000o7n684zk1ghqw",
+    "selectionType": "NFL",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:30:01.002Z",
+    "participant": {
+      "name": "Scotty"
+    },
+    "team": {
+      "name": "New York Jets",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf07f52s00hj7nzh13rks0yw",
+    "participantId": "cmezwkg3y002y7ndx52bnh3m7",
+    "teamId": "cmf05p0tl000w7n7bdcjcjzee",
+    "selectionType": "COLLEGE",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:30:08.885Z",
+    "participant": {
+      "name": "Scotty"
+    },
+    "team": {
+      "name": "USC Trojans",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf07f9mw00hl7nzhk4zcgxtz",
+    "participantId": "cmezwkg3y002y7ndx52bnh3m7",
+    "teamId": "cmf05p0u8001v7n7bi7rcpifw",
+    "selectionType": "COLLEGE",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:30:14.793Z",
+    "participant": {
+      "name": "Scotty"
+    },
+    "team": {
+      "name": "Utah Utes",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf07fey700hn7nzhwhgg49ro",
+    "participantId": "cmezwkg3y002y7ndx52bnh3m7",
+    "teamId": "cmf04zrex000d7n68xh9bpfnb",
+    "selectionType": "NFL",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:30:21.679Z",
+    "participant": {
+      "name": "Scotty"
+    },
+    "team": {
+      "name": "Indianapolis Colts",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf07fhmg00hp7nzhc4rt9s5z",
+    "participantId": "cmezwkg3y002y7ndx52bnh3m7",
+    "teamId": "cmf05p0u7001u7n7brj7xbqib",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:30:25.144Z",
+    "participant": {
+      "name": "Scotty"
+    },
+    "team": {
+      "name": "Colorado Buffaloes",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf07flmn00hr7nzhs4gt8v6v",
+    "participantId": "cmezwkg3y002y7ndx52bnh3m7",
+    "teamId": "cmf05p0vd00347n7b47tl90hr",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:30:30.335Z",
+    "participant": {
+      "name": "Scotty"
+    },
+    "team": {
+      "name": "Bowling Green Falcons",
+      "league": "COLLEGE",
+      "conference": "MAC"
+    }
+  },
+  {
+    "id": "cmf07gtay00hz7nzhejbhhr0g",
+    "participantId": "cmezwkg3y002y7ndx52bnh3m7",
+    "teamId": "cmf05p0ua001y7n7bv7rmvflp",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:31:26.939Z",
+    "participant": {
+      "name": "Scotty"
+    },
+    "team": {
+      "name": "East Carolina Pirates",
+      "league": "COLLEGE",
+      "conference": "American"
+    }
+  },
+  {
+    "id": "cmf07gyxj00i17nzh2ogqvpfz",
+    "participantId": "cmezwkg3y002y7ndx52bnh3m7",
+    "teamId": "cmf05p0ue00257n7bp0iu4j50",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:31:34.231Z",
+    "participant": {
+      "name": "Scotty"
+    },
+    "team": {
+      "name": "UAB Blazers",
+      "league": "COLLEGE",
+      "conference": "American"
+    }
+  },
+  {
+    "id": "cmf07h48n00i37nzhla1fo18h",
+    "participantId": "cmezwkg3y002y7ndx52bnh3m7",
+    "teamId": "cmf05p0tj000t7n7blmca0rsc",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:31:41.112Z",
+    "participant": {
+      "name": "Scotty"
+    },
+    "team": {
+      "name": "Wisconsin Badgers",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf07h9mc00i57nzhxrpyiega",
+    "participantId": "cmezwkg3y002y7ndx52bnh3m7",
+    "teamId": "cmf05p0u6001t7n7ba1j2d2v1",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:31:48.085Z",
+    "participant": {
+      "name": "Scotty"
+    },
+    "team": {
+      "name": "Arizona State Sun Devils",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf0742zw00e57nzhmstdbncx",
+    "participantId": "cmezwkg4100347ndxklz74slw",
+    "teamId": "cmf04zrf3000k7n681l179j8e",
+    "selectionType": "NFL",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T21:21:32.972Z",
+    "participant": {
+      "name": "Steamer"
+    },
+    "team": {
+      "name": "Minnesota Vikings",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf0747tc00e77nzh3l1eimxj",
+    "participantId": "cmezwkg4100347ndxklz74slw",
+    "teamId": "cmf05p0tw001c7n7bme63p3ub",
+    "selectionType": "COLLEGE",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T21:21:39.216Z",
+    "participant": {
+      "name": "Steamer"
+    },
+    "team": {
+      "name": "Notre Dame Fighting Irish",
+      "league": "COLLEGE",
+      "conference": "Independent"
+    }
+  },
+  {
+    "id": "cmf074ext00e97nzhx1sqpphv",
+    "participantId": "cmezwkg4100347ndxklz74slw",
+    "teamId": "cmf05p0u3001o7n7bpb5xwpur",
+    "selectionType": "COLLEGE",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T21:21:48.450Z",
+    "participant": {
+      "name": "Steamer"
+    },
+    "team": {
+      "name": "TCU Horned Frogs",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf074jfg00eb7nzht78ki2er",
+    "participantId": "cmezwkg4100347ndxklz74slw",
+    "teamId": "cmf05p0u0001k7n7b23rh91mk",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T21:21:54.269Z",
+    "participant": {
+      "name": "Steamer"
+    },
+    "team": {
+      "name": "Iowa State Cyclones",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf074o1600ed7nzhuk5zox2o",
+    "participantId": "cmezwkg4100347ndxklz74slw",
+    "teamId": "cmf05p0u5001r7n7bovcan3h5",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T21:22:00.234Z",
+    "participant": {
+      "name": "Steamer"
+    },
+    "team": {
+      "name": "West Virginia Mountaineers",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf074tax00ef7nzh3yoxdl7j",
+    "participantId": "cmezwkg4100347ndxklz74slw",
+    "teamId": "cmf05p0sv00057n7bhzh4jj4c",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T21:22:07.066Z",
+    "participant": {
+      "name": "Steamer"
+    },
+    "team": {
+      "name": "Kentucky Wildcats",
+      "league": "COLLEGE",
+      "conference": "SEC"
+    }
+  },
+  {
+    "id": "cmf0750jf00eh7nzhqkjqrcfn",
+    "participantId": "cmezwkg4100347ndxklz74slw",
+    "teamId": "cmf04zrfc000u7n68d4484lau",
+    "selectionType": "NFL",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T21:22:16.443Z",
+    "participant": {
+      "name": "Steamer"
+    },
+    "team": {
+      "name": "Tennessee Titans",
+      "league": "NFL",
+      "conference": "AFC"
+    }
+  },
+  {
+    "id": "cmf0754n800ej7nzhsnylfhry",
+    "participantId": "cmezwkg4100347ndxklz74slw",
+    "teamId": "cmf05p0tk000v7n7bokeszan9",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T21:22:21.764Z",
+    "participant": {
+      "name": "Steamer"
+    },
+    "team": {
+      "name": "UCLA Bruins",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf0758xg00el7nzhrfjh7xj9",
+    "participantId": "cmezwkg4100347ndxklz74slw",
+    "teamId": "cmf05p0tm000y7n7bdbmpff3v",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T21:22:27.316Z",
+    "participant": {
+      "name": "Steamer"
+    },
+    "team": {
+      "name": "Boston College Eagles",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf075d9v00en7nzhazaarhsq",
+    "participantId": "cmezwkg4100347ndxklz74slw",
+    "teamId": "cmf05p0t9000h7n7by54wynjv",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T21:22:32.947Z",
+    "participant": {
+      "name": "Steamer"
+    },
+    "team": {
+      "name": "Indiana Hoosiers",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf0676b400bx7nzhuygufp2t",
+    "participantId": "cmezwkg3v002s7ndxh0ad5spd",
+    "teamId": "cmf04zrfb000r7n689hzprm8v",
+    "selectionType": "NFL",
+    "pickNumber": 1,
+    "createdAt": "2025-08-31T20:55:57.616Z",
+    "participant": {
+      "name": "Steve"
+    },
+    "team": {
+      "name": "San Francisco 49ers",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf067c8y00bz7nzhcmtck5qs",
+    "participantId": "cmezwkg3v002s7ndxh0ad5spd",
+    "teamId": "cmf05p0tg000q7n7bvzst1msy",
+    "selectionType": "COLLEGE",
+    "pickNumber": 2,
+    "createdAt": "2025-08-31T20:56:05.314Z",
+    "participant": {
+      "name": "Steve"
+    },
+    "team": {
+      "name": "Penn State Nittany Lions",
+      "league": "COLLEGE",
+      "conference": "Big Ten"
+    }
+  },
+  {
+    "id": "cmf067kvq00c17nzh058ir743",
+    "participantId": "cmezwkg3v002s7ndxh0ad5spd",
+    "teamId": "cmf04zrf0000i7n68l1982yr6",
+    "selectionType": "NFL",
+    "pickNumber": 3,
+    "createdAt": "2025-08-31T20:56:16.502Z",
+    "participant": {
+      "name": "Steve"
+    },
+    "team": {
+      "name": "Los Angeles Rams",
+      "league": "NFL",
+      "conference": "NFC"
+    }
+  },
+  {
+    "id": "cmf067qdr00c37nzhr4cx3hm0",
+    "participantId": "cmezwkg3v002s7ndxh0ad5spd",
+    "teamId": "cmf05p0vh003b7n7b40y33dc7",
+    "selectionType": "COLLEGE",
+    "pickNumber": 4,
+    "createdAt": "2025-08-31T20:56:23.631Z",
+    "participant": {
+      "name": "Steve"
+    },
+    "team": {
+      "name": "Ohio Bobcats",
+      "league": "COLLEGE",
+      "conference": "MAC"
+    }
+  },
+  {
+    "id": "cmf067vho00c57nzhnsqgh9cl",
+    "participantId": "cmezwkg3v002s7ndxh0ad5spd",
+    "teamId": "cmf05p0ts00167n7bdk7eeu3i",
+    "selectionType": "COLLEGE",
+    "pickNumber": 5,
+    "createdAt": "2025-08-31T20:56:30.253Z",
+    "participant": {
+      "name": "Steve"
+    },
+    "team": {
+      "name": "North Carolina Tar Heels",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf0681ue00c77nzhl07jqmmu",
+    "participantId": "cmezwkg3v002s7ndxh0ad5spd",
+    "teamId": "cmf05p0va00307n7bxc2r5qch",
+    "selectionType": "COLLEGE",
+    "pickNumber": 6,
+    "createdAt": "2025-08-31T20:56:38.486Z",
+    "participant": {
+      "name": "Steve"
+    },
+    "team": {
+      "name": "Texas State Bobcats",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  },
+  {
+    "id": "cmf068bqx00c97nzha6264kcn",
+    "participantId": "cmezwkg3v002s7ndxh0ad5spd",
+    "teamId": "cmf05p0tr00157n7bck50blck",
+    "selectionType": "COLLEGE",
+    "pickNumber": 7,
+    "createdAt": "2025-08-31T20:56:51.322Z",
+    "participant": {
+      "name": "Steve"
+    },
+    "team": {
+      "name": "NC State Wolfpack",
+      "league": "COLLEGE",
+      "conference": "ACC"
+    }
+  },
+  {
+    "id": "cmf068gq500cb7nzhfczjkeo1",
+    "participantId": "cmezwkg3v002s7ndxh0ad5spd",
+    "teamId": "cmf05p0uk002f7n7b6d2uud6w",
+    "selectionType": "COLLEGE",
+    "pickNumber": 8,
+    "createdAt": "2025-08-31T20:56:57.773Z",
+    "participant": {
+      "name": "Steve"
+    },
+    "team": {
+      "name": "Hawaii Rainbow Warriors",
+      "league": "COLLEGE",
+      "conference": "Mountain West"
+    }
+  },
+  {
+    "id": "cmf068km900cd7nzh76m6z66l",
+    "participantId": "cmezwkg3v002s7ndxh0ad5spd",
+    "teamId": "cmf05p0u6001s7n7b5ou1uoos",
+    "selectionType": "COLLEGE",
+    "pickNumber": 9,
+    "createdAt": "2025-08-31T20:57:02.818Z",
+    "participant": {
+      "name": "Steve"
+    },
+    "team": {
+      "name": "Arizona Wildcats",
+      "league": "COLLEGE",
+      "conference": "Big 12"
+    }
+  },
+  {
+    "id": "cmf068vri00cf7nzhzfozd1sd",
+    "participantId": "cmezwkg3v002s7ndxh0ad5spd",
+    "teamId": "cmf05p0ut002u7n7bv8dc2g28",
+    "selectionType": "COLLEGE",
+    "pickNumber": 10,
+    "createdAt": "2025-08-31T20:57:17.262Z",
+    "participant": {
+      "name": "Steve"
+    },
+    "team": {
+      "name": "Louisiana Monroe Warhawks",
+      "league": "COLLEGE",
+      "conference": "Sun Belt"
+    }
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "timestamp": "2025-08-31T21:40:15.027Z",
+  "counts": {
+    "totalTeams": 168,
+    "nflTeams": 32,
+    "collegeTeams": 136,
+    "participants": 15,
+    "totalSelections": 150
+  },
+  "conferences": {
+    "ACC": 17,
+    "American": 13,
+    "Big 12": 16,
+    "Big Ten": 18,
+    "Conference USA": 12,
+    "Independent": 3,
+    "MAC": 13,
+    "Mountain West": 12,
+    "Pac-12": 2,
+    "SEC": 16,
+    "Sun Belt": 14
+  },
+  "participantProgress": {
+    "Al": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Bocklet": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Brian": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Daryl": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Goody": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "KOB": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Kenny": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Knowles": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Mario": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Marty": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Petrucci": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Reilly": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Scotty": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Steamer": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    },
+    "Steve": {
+      "total": 10,
+      "nfl": 2,
+      "college": 8
+    }
+  }
+}
