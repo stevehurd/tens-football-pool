@@ -1,6 +1,5 @@
 {
-  "buildCommand": "prisma generate && npm run build",
-  "installCommand": "npm ci && prisma generate",
+  "buildCommand": "npx prisma generate && npm run build",
   "functions": {
     "src/app/api/**/*.ts": {
       "maxDuration": 30
