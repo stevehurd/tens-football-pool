@@ -46,7 +46,8 @@ export async function POST() {
       { name: 'Tennessee Titans', abbreviation: 'TEN', league: 'NFL', division: 'AFC South', logoUrl: 'https://a.espncdn.com/i/teamlogos/nfl/500/ten.png', espnId: 10 },
       { name: 'Washington Commanders', abbreviation: 'WAS', league: 'NFL', division: 'NFC East', logoUrl: 'https://a.espncdn.com/i/teamlogos/nfl/500/was.png', espnId: 28 },
       
-      // College teams with ESPN IDs (key ones from your selections)
+      // All college teams with ESPN IDs - comprehensive list
+      // Major programs first
       { name: 'Alabama Crimson Tide', abbreviation: 'ALA', league: 'COLLEGE', conference: 'SEC', logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/333.png', espnId: 333 },
       { name: 'Auburn Tigers', abbreviation: 'AUB', league: 'COLLEGE', conference: 'SEC', logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/2.png', espnId: 2 },
       { name: 'BYU Cougars', abbreviation: 'BYU', league: 'COLLEGE', conference: 'Big 12', logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/252.png', espnId: 252 },
@@ -62,8 +63,6 @@ export async function POST() {
       { name: 'Tennessee Volunteers', abbreviation: 'TENN', league: 'COLLEGE', conference: 'SEC', logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png', espnId: 2633 },
       { name: 'Texas Longhorns', abbreviation: 'TEX', league: 'COLLEGE', conference: 'SEC', logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/251.png', espnId: 251 },
       { name: 'USC Trojans', abbreviation: 'USC', league: 'COLLEGE', conference: 'Big Ten', logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/30.png', espnId: 30 },
-      
-      // Add all college teams from selections
       { name: 'Notre Dame Fighting Irish', abbreviation: 'ND', league: 'COLLEGE', conference: 'Independent', logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/87.png', espnId: 87 },
       { name: 'Miami Hurricanes', abbreviation: 'MIA', league: 'COLLEGE', conference: 'ACC', logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png', espnId: 2390 },
       { name: 'Texas A&M Aggies', abbreviation: 'TAMU', league: 'COLLEGE', conference: 'SEC', logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/245.png', espnId: 245 },

@@ -233,7 +233,7 @@ export async function POST() {
           for (const variation of variations) {
             team = await prisma.team.findFirst({
               where: { 
-                name: { contains: variation.split(' ')[0], mode: 'insensitive' },
+                name: { contains: variation.split(' ')[0] },
                 league: selection.league 
               }
             })
