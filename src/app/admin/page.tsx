@@ -7,6 +7,8 @@ export default function Admin() {
   const [syncing, setSyncing] = useState(false)
   const [lastSync, setLastSync] = useState<string | null>(null)
   const [syncResults, setSyncResults] = useState<string | null>(null)
+  const [fixing, setFixing] = useState(false)
+  const [fixResults, setFixResults] = useState<string | null>(null)
 
   const handleSyncTeams = async () => {
     setSyncing(true)
@@ -29,6 +31,35 @@ export default function Admin() {
       setSyncResults(`❌ Sync failed: ${error}`)
     } finally {
       setSyncing(false)
+    }
+  }
+
+  const handleFixData = async () => {
+    setFixing(true)
+    setFixResults(null)
+
+    try {
+      // First fix logos
+      const logoResponse = await fetch('/api/admin/fix-logos', {
+        method: 'POST',
+      })
+      const logoData = await logoResponse.json()
+      
+      // Then fix college selections
+      const collegeResponse = await fetch('/api/admin/fix-college-selections', {
+        method: 'POST',
+      })
+      const collegeData = await collegeResponse.json()
+      
+      if (logoResponse.ok && collegeResponse.ok) {
+        setFixResults(`✅ Fixed ${logoData.fixed} logos and ${collegeData.migrated} college selections`)
+      } else {
+        setFixResults(`❌ Fix failed: ${logoData.error || collegeData.error}`)
+      }
+    } catch (error) {
+      setFixResults(`❌ Fix failed: ${error}`)
+    } finally {
+      setFixing(false)
     }
   }
 
@@ -64,6 +95,18 @@ export default function Admin() {
                 >
                   {syncing ? '🔄 Syncing Team Data...' : '📊 Sync Team Records'}
                 </button>
+                
+                <button
+                  onClick={handleFixData}
+                  disabled={fixing}
+                  className={`w-full py-3 px-4 rounded-md font-medium transition-colors ${
+                    fixing
+                      ? 'bg-gray-300 text-gray-900 cursor-not-allowed'
+                      : 'bg-green-600 text-white hover:bg-green-700'
+                  }`}
+                >
+                  {fixing ? '🔧 Fixing Data...' : '🔧 Fix Logos & College Teams'}
+                </button>
               </div>
 
               {lastSync && (
@@ -79,6 +122,16 @@ export default function Admin() {
                     : 'bg-red-100 text-red-800'
                 }`}>
                   {syncResults}
+                </div>
+              )}
+              
+              {fixResults && (
+                <div className={`p-3 rounded-md text-sm ${
+                  fixResults.includes('✅') 
+                    ? 'bg-green-100 text-green-800' 
+                    : 'bg-red-100 text-red-800'
+                }`}>
+                  {fixResults}
                 </div>
               )}
             </div>
