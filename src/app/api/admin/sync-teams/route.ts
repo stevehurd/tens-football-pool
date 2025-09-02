@@ -245,7 +245,7 @@ async function fetchTeamRecord(espnId: number, league: 'nfl' | 'college-football
   }
 }
 
-export async function POST(request: NextRequest) {
+async function syncTeams() {
   try {
     console.log('Starting improved team sync using ESPN ID lookups...')
     
@@ -316,4 +316,15 @@ export async function POST(request: NextRequest) {
       { status: 500 }
     )
   }
+}
+
+// Handle both GET (for Vercel Cron) and POST (for manual admin panel)
+export async function GET() {
+  console.log('Sync triggered via GET request (likely Vercel Cron)')
+  return syncTeams()
+}
+
+export async function POST() {
+  console.log('Sync triggered via POST request (likely admin panel)')
+  return syncTeams()
 }
